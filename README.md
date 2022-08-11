@@ -75,7 +75,7 @@ $   yosys>    show
 
 ## Contributors 
 
-- **Sanampudi Gopala Krishna Reddy** 
+- **Yugaan Mangesh Hagargi** 
 - **Kunal Ghosh** 
 
 
@@ -87,7 +87,7 @@ $   yosys>    show
 
 ## Contact Information
 
-- Sanampudi Gopala Krishna Reddy, Postgraduate Student, International Institute of Information Technology, Bangalore  svgkr7@gmail.com
+- Yugaan Mangesh Hagargi, Undergraduate Student, International Institute of Information Technology, Bangalore  yugaan.hagargi@iiitb.ac.in
 - Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com
 
 ## References:
