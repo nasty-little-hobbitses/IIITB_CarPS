@@ -8,6 +8,7 @@ entered, the exit door will not allowed incoming cars to enter.
 # Introduction
 
 ![Verilog_code_For_Car_parking_system](https://user-images.githubusercontent.com/74352735/184111740-1fae9489-2635-40b6-881e-fe1c09dd469c.jpg)
+
 The state diagram above explains the entire car parking
 system. A sensor detects whether a vehicle is coming or not.
 Upon being triggered, the gate opens if the correct password
